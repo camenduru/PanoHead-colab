@@ -20,3 +20,4 @@ https://arxiv.org/abs/2303.13071
 
 ## Output
 ![Screenshot 2023-06-25 151940](https://github.com/camenduru/PanoHead-colab/assets/54370274/0f85615b-05e6-4f9a-9e5b-62738b3d175d)
+![Screenshot 2023-06-25 152636](https://github.com/camenduru/PanoHead-colab/assets/54370274/5001c0de-2c49-4a27-bf22-844585942b10)
