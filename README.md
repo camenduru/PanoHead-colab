@@ -18,6 +18,5 @@ https://sizhean.github.io/panohead
 ## Paper
 https://arxiv.org/abs/2303.13071
 
-## License
-
 ## Output
+![Screenshot 2023-06-25 151940](https://github.com/camenduru/PanoHead-colab/assets/54370274/0f85615b-05e6-4f9a-9e5b-62738b3d175d)
