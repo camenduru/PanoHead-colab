@@ -8,7 +8,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PanoHead-colab/blob/main/PanoHead_colab.ipynb) | PanoHead_colab <br /> (Generating 3D models from custom images requires High-RAM. 🚦 WIP 🚦)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PanoHead-colab/blob/main/PanoHead_colab.ipynb) | PanoHead_colab <br /> (generates 3D models from generated images)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PanoHead-colab/blob/main/PanoHead_custom_colab.ipynb) | PanoHead_colab <br /> (generates 3D models from custom images)
 
 ## Main Repo
 https://github.com/SizheAn/PanoHead
