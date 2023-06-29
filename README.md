@@ -9,10 +9,14 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PanoHead-colab/blob/main/PanoHead_colab.ipynb) | PanoHead_colab <br /> (generates 3D models from generated images)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PanoHead-colab/blob/main/PanoHead_custom_colab.ipynb) | PanoHead_custom_colab <br /> (generates 3D models from custom images)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PanoHead-colab/blob/main/PanoHead_custom_colab.ipynb) | PanoHead_custom_colab <br /> (generates 3D models from custom images) 
 
 ## Tutorial
 https://www.youtube.com/watch?v=QwPAo-f5UgM
+
+For .ply output we need pro colab please add `--shapes=True`
+
+![image](https://github.com/camenduru/PanoHead-colab/assets/54370274/2798d86c-fa44-486e-9779-661c1726a92b)
 
 ## Main Repo
 https://github.com/SizheAn/PanoHead
