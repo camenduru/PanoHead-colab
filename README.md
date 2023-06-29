@@ -22,6 +22,10 @@ Maybe for better 3D we can play with  <br /> `max_batch = 3000000` `voxel_resolu
 
 ![Screenshot 2023-06-29 171454](https://github.com/camenduru/PanoHead-colab/assets/54370274/f6c66a94-017d-48b1-8da1-46e9eb4c08fe)
 
+```--num-steps=100 --num-steps-pti=100 max_batch = 100000```
+
+![Screenshot 2023-06-29 174704](https://github.com/camenduru/PanoHead-colab/assets/54370274/5a1fbcda-374c-4778-9f4c-e12e1b169b8d)
+
 ## Main Repo
 https://github.com/SizheAn/PanoHead
 
