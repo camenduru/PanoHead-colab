@@ -11,6 +11,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PanoHead-colab/blob/main/PanoHead_colab.ipynb) | PanoHead_colab <br /> (generates 3D models from generated images)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PanoHead-colab/blob/main/PanoHead_custom_colab.ipynb) | PanoHead_custom_colab <br /> (generates 3D models from custom images)
 
+## Tutorial
+https://www.youtube.com/watch?v=QwPAo-f5UgM
+
 ## Main Repo
 https://github.com/SizheAn/PanoHead
 
