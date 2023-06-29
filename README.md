@@ -18,7 +18,7 @@ For .ply output please add `--shapes=True`
 
 ![image](https://github.com/camenduru/PanoHead-colab/assets/54370274/2798d86c-fa44-486e-9779-661c1726a92b)
 
-Maybe for better 3D we can play with  `max_batch = 3000000` and `voxel_resolution = 512`
+Maybe for better 3D we can play with  `max_batch = 3000000` `voxel_resolution = 512` `--num-steps=300` `--num-steps-pti=300`
 
 ![Screenshot 2023-06-29 171454](https://github.com/camenduru/PanoHead-colab/assets/54370274/f6c66a94-017d-48b1-8da1-46e9eb4c08fe)
 
