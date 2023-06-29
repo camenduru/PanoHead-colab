@@ -24,5 +24,7 @@ https://sizhean.github.io/panohead
 https://arxiv.org/abs/2303.13071
 
 ## Output
+https://github.com/camenduru/PanoHead-colab/assets/54370274/1fadae77-7fc1-4353-8544-632cf79a6820
+
 ![Screenshot 2023-06-25 151940](https://github.com/camenduru/PanoHead-colab/assets/54370274/0f85615b-05e6-4f9a-9e5b-62738b3d175d)
 ![Screenshot 2023-06-25 152636](https://github.com/camenduru/PanoHead-colab/assets/54370274/5001c0de-2c49-4a27-bf22-844585942b10)
