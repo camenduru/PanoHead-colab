@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=QwPAo-f5UgM
 
 For .ply output please add `--shapes=True`
 
+![image](https://github.com/camenduru/PanoHead-colab/assets/54370274/2798d86c-fa44-486e-9779-661c1726a92b)
+
 ## Main Repo
 https://github.com/SizheAn/PanoHead
 
