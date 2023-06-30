@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=QwPAo-f5UgM
 For .ply output please add `--shapes=True`
 
 After running the first cell, add your custom image named `test.jpg` to the `in` folder.
+
 ![Screenshot 2023-06-30 191906](https://github.com/camenduru/PanoHead-colab/assets/54370274/a9838835-ce31-4933-be8c-0d793f581435)
 
 ![image](https://github.com/camenduru/PanoHead-colab/assets/54370274/2798d86c-fa44-486e-9779-661c1726a92b)
